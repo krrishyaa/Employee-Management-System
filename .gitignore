@@ -1,0 +1,9 @@
+# Ignore compiled executables and object files
+*.o
+*.exe
+
+# Ignore VS Code specific settings
+.vscode/
+
+# Ignore sensitive data files
+data/
